@@ -6,6 +6,8 @@ This is an attempt of refurbishing an old PlayStation 2 that was found in a thri
 
 One fine day in mid-December 2024, I sauntered into a thrift store and found this thing sitting on the shelf.
 
+**Update: For the refurbishment of the other PS2 console I got online, you can refer to this link ->** [README_2.md](/README_2.md)
+
 At first, I thought, "who would want it anyway?" and I circled around the store to see if this is *actually* worth it or not.
 
 After recalling that the system was one of the [world's best selling consoles](https://sea.ign.com/news/222804/sony-confirms-the-playstation-2-has-sold-over-160-million-consoles-worldwide) and many of my friends used to have these, I bought that thing immediately.
@@ -75,9 +77,11 @@ The PSU should output approximately +12V. If it's a +12V on the multimeter, the 
 
 Oh, and separately I tested one of the removed capacitors by using the method in the [Youtube video](https://www.youtube.com/watch?v=115erzCCxgE&pp=ygUZY2FwYWNpdG9yIGVzciBtZWFzdXJlbWVudA%3D%3D).
 
-A good one would show small consistent spikes on the oscilloscope. A bad one looks like this:
+A good one would show small consistent spikes on the oscilloscope. A bad one looks like this (note the high ESR inside):
 
 ![](image/badCapacitor.jpg)
+
+![](image/ps2_bad_capacitor_esr.jpg)
 
 After confirming the +12V is working, I assembled it back (not including the casing), and yes! It could switch on for the first time!
 
