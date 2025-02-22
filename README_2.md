@@ -56,7 +56,7 @@ After removing the modchip and did the housekeeping, I'm glad that the unit star
 
 However, there are a lot of *broken things inside* like the on/off ribbon cable that got frayed and snapped later when I'm doing further work on it!
 
-Also, that frayed controller ribbon cable really sucked! That thing fell out the controller port many times and I used a cut transparency acetate to jam it into the slot for better support. One of the memory card slot doesn't work, and the other controller port might be intermittent. It worked for a while but now the console just refused to start afterwards! 
+Also, that frayed controller ribbon cable *really sucked*! That thing fell out the controller port many times and I used a cut transparency acetate to jam it into the slot for better support. One of the memory card slot doesn't work, and the other controller port might be intermittent. It worked for a while but now the console just refused to start afterwards! 
 
 ![](image2/ps2_controller_ribbon_broken.jpg)
 
@@ -66,9 +66,16 @@ Besides that this frayed flex cable might have blown one of the fuses (**PS007**
 
 ![](image2/ps2_ps007_fuse_broken.jpg)
 
-When it is arrived, I'll resolder the new one back to the board of course!
+I ordered a small thermal pad and that fuse from AliExpress and did the replacement:
+![](image2/ps2_replace_thermalpads_vibfuse.jpg)
+
+These blue pads are **3mm thickness** and fits perfectly on top of the chips. The older pads have hardened and not really good anymore to dissipate heat.
+
+At least the vibrate function on the controllers work now after the fuse replacement.
 
 Apart from that the console runs as usual, I had some hours playing games on it and it did not act up or whatever it is.
+
+![](image2/ps2_information.jpg)
 
 ## DVD player
 
